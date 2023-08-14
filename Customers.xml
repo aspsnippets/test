@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+	<Customer>
+		<CustomerId>1</CustomerId>
+		<Name>John Hammond</Name>
+		<Country>United States</Country>
+	</Customer>
+	<Customer>
+		<CustomerId>2</CustomerId>
+		<Name>Mudassar Khan</Name>
+		<Country>India</Country>
+	</Customer>
+	<Customer>
+		<CustomerId>3</CustomerId>
+		<Name>Suzanne Mathews</Name>
+		<Country>France</Country>
+	</Customer>
+	<Customer>
+		<CustomerId>4</CustomerId>
+		<Name>Robert Schidner</Name>
+		<Country>Russia</Country>
+	</Customer>
+</Customers>
