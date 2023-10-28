@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "parent": "#",
+    "text": "Cars"
+  },
+  {
+    "id": "2",
+    "parent": "#",
+    "text": "Bikes"
+  },
+  {
+    "id": "1-1",
+    "parent": "1",
+    "text": "Alto"
+  },
+  {
+    "id": "1-2",
+    "parent": "1",
+    "text": "WagonR"
+  },
+  {
+    "id": "1-3",
+    "parent": "1",
+    "text": "Scorpio"
+  },
+  {
+    "id": "1-4",
+    "parent": "1",
+    "text": "Duster"
+  },
+  {
+    "id": "2-5",
+    "parent": "2",
+    "text": "Discover"
+  },
+  {
+    "id": "2-6",
+    "parent": "2",
+    "text": "Avenger"
+  },
+  {
+    "id": "2-7",
+    "parent": "2",
+    "text": "Unicorn"
+  },
+  {
+    "id": "2-8",
+    "parent": "2",
+    "text": "Karizma"
+  }
+]
